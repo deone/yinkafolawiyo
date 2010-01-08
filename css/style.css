@@ -1,0 +1,32 @@
+@import "960/reset.css";
+@import "960/text.css";
+@import "960/layout.css";
+@import "960/960.css";
+@import "960/nav.css";
+
+#content .box    {
+    background-color: #fff;
+}
+
+#content p  {
+    text-align: justify;
+}
+
+#footer .box    {
+    padding-left: 10px;
+}
+
+.pic-frame  {
+    background-color: #eee;
+    padding: 10px;
+}
+
+.left   {
+    float: left;
+    margin: 0 10px 10px 0;
+}
+
+.right  {
+    float: right;
+    margin: 0 0 10px 10px;
+}
